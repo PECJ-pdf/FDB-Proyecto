@@ -1,5 +1,5 @@
-# FDB-Proyecto
-Sistema de Gestión de Arrendamientos
+# FDB-Sistema de Gestión de Arrendamientos
+
 1. Descripción
 Este proyecto consiste en el diseño e implementación de una base de datos relacional para optimizar la administración de rentas de departamentos.
 El objetivo es sustituir procesos manuales por una estructura digital que garantice la integridad de los datos y facilite la generación de reportes financieros.
